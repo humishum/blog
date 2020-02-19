@@ -16,7 +16,7 @@
 title: Edge Of Chaos Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-Edge of Chaos blog hosted by Humdaan :) 
+	Edge of Chaos blog hosted by Humdaan :) 
 url: "https://humishum.github.io"
 baseurl: "/blog"
 twitter_username: humishum
